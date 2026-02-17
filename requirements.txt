@@ -1,0 +1,31 @@
+✅ Software Requirements
+
+Operating System:
+
+Windows / macOS / Linux
+
+Programming Language:
+
+Python 3.x (3.8 or above recommended)
+
+Python Libraries / Modules:
+
+tkinter – GUI (built-in with Python)
+
+random – random password generation (built-in)
+
+string – character sets (built-in)
+
+messagebox – GUI alerts (part of tkinter)
+
+📌 No external libraries are required.
+
+✅ Hardware Requirements
+
+Processor: Any modern processor (Intel / AMD / ARM)
+
+RAM: Minimum 2 GB (4 GB recommended)
+
+Storage: Less than 50 MB
+
+Display: Standard screen resolution (for GUI window)
